@@ -1,1 +1,14 @@
 ServerData/Android/*.bundle filter=lfs diff=lfs merge=lfs -text
+ServerData/Android/058d251423f27325b4e935eaba70f859_unitybuiltinshaders_0e33675f4d06f9199c26731610aef276.bundle filter=lfs diff=lfs merge=lfs -text
+ServerData/Android/ardebugmenu_assets_all_b56d08f0ea84a39ed18e86ff3fe1cb9a.bundle filter=lfs diff=lfs merge=lfs -text
+ServerData/Android/arprefab_assets_all_99a193229a43885df57aba18bff8a29f.bundle filter=lfs diff=lfs merge=lfs -text
+ServerData/Android/artist_assets_all_bf1f62210b964d8ba9d7e4f1bd396849.bundle filter=lfs diff=lfs merge=lfs -text
+ServerData/Android/duplicateassetisolation_assets_all_0a1e9ed7f805b6429ccad1501a2c3c99.bundle filter=lfs diff=lfs merge=lfs -text
+ServerData/Android/menusprite_assets_all_321c0066e6c08d4d4eb1a9c7147bd47a.bundle filter=lfs diff=lfs merge=lfs -text
+ServerData/Android/paintingobjects_assets_arlesroomobject_720b460e37edd636afad5bb280b5efae.bundle filter=lfs diff=lfs merge=lfs -text
+ServerData/Android/paintingobjects_assets_cafeterraceobject_cfd13bc92e4685e201f1cdc705b73d3a.bundle filter=lfs diff=lfs merge=lfs -text
+ServerData/Android/paintingscene_scenes_all_b81f983bbaa74ae0db8cb78d3ce37e1a.bundle filter=lfs diff=lfs merge=lfs -text
+ServerData/Android/paintingscene_scenes_all_ddf6350afd9ca33ac054aa1a4ac2fcf0.bundle filter=lfs diff=lfs merge=lfs -text
+ServerData/Android/photomaterial_assets_arlesroompicture.mat_1be557068436ecd0b56aea3fb7f6fd4e.bundle filter=lfs diff=lfs merge=lfs -text
+ServerData/Android/photomaterial_assets_caffeterracepicture.mat_b02a52fdd08e0ffc62296b273be76401.bundle filter=lfs diff=lfs merge=lfs -text
+ServerData/Android/photomaterial_assets_lazaretrainpicture.mat_6be67404a2d5f62ce07ca866059c4d16.bundle filter=lfs diff=lfs merge=lfs -text
